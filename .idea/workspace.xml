@@ -4,14 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ad1308-f7e3-4ab0-9f2d-8362a48a5c00" name="Changes" comment="" />
+    <list default="true" id="63ad1308-f7e3-4ab0-9f2d-8362a48a5c00" name="Changes" comment="Maven Source compailer changed from 18 to 11">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2E1G4ja1Imvg47VlBrMNujYNsvW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,6 +47,21 @@
       <option name="presentableId" value="Default" />
       <updated>1661755490756</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1661755527867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661755527867</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Maven Source compailer changed from 18 to 11">
+      <created>1661755596816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661755596816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -46,5 +74,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Maven Source compailer changed from 18 to 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maven Source compailer changed from 18 to 11" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
