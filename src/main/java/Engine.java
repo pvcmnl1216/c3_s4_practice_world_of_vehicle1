@@ -15,6 +15,7 @@ public class Engine {
     }
 
     public Engine(int modelNumber, String displacement, String maxPower, int maxRpm, String noOfCylinders) {
+        super();
         this.modelNumber = modelNumber;
         this.displacement = displacement;
         this.maxPower = maxPower;
@@ -27,4 +28,13 @@ public class Engine {
         String Voltage;
 
     }
+
+    class petrolEngine {
+
+    }
+
+    class dieselEngine {
+
+    }
+
 }
