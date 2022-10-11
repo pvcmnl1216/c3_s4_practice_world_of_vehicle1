@@ -15,7 +15,6 @@ public class Engine {
     }
 
     public Engine(int modelNumber, String displacement, String maxPower, int maxRpm, String noOfCylinders) {
-        super();
         this.modelNumber = modelNumber;
         this.displacement = displacement;
         this.maxPower = maxPower;
@@ -23,18 +22,43 @@ public class Engine {
         this.noOfCylinders = noOfCylinders;
     }
 
-    class ElectricEngines {
-
-        String Voltage;
-
+    public int getModelNumber() {
+        return modelNumber;
     }
 
-    class petrolEngine {
-
+    public void setModelNumber(int modelNumber) {
+        this.modelNumber = modelNumber;
     }
 
-    class dieselEngine {
-
+    public String getDisplacement() {
+        return displacement;
     }
 
+    public void setDisplacement(String displacement) {
+        this.displacement = displacement;
+    }
+
+    public String getMaxPower() {
+        return maxPower;
+    }
+
+    public void setMaxPower(String maxPower) {
+        this.maxPower = maxPower;
+    }
+
+    public int getMaxRpm() {
+        return maxRpm;
+    }
+
+    public void setMaxRpm(int maxRpm) {
+        this.maxRpm = maxRpm;
+    }
+
+    public String getNoOfCylinders() {
+        return noOfCylinders;
+    }
+
+    public void setNoOfCylinders(String noOfCylinders) {
+        this.noOfCylinders = noOfCylinders;
+    }
 }
