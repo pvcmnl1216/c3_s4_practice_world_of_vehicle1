@@ -4,7 +4,7 @@
  * Praise The Lord
  */
 
-class CNGEngine extends Engine {
+public class CNGEngine extends Engine {
     private String maxPower;
     private int maxRpm;
     private String noOfCylinders;
