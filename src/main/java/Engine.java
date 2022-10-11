@@ -61,4 +61,15 @@ public class Engine {
     public void setNoOfCylinders(String noOfCylinders) {
         this.noOfCylinders = noOfCylinders;
     }
+
+    @Override
+    public String toString() {
+        return "Engine{" +
+                "modelNumber=" + modelNumber +
+                ", displacement='" + displacement + '\'' +
+                ", maxPower='" + maxPower + '\'' +
+                ", maxRpm=" + maxRpm +
+                ", noOfCylinders='" + noOfCylinders + '\'' +
+                '}';
+    }
 }
