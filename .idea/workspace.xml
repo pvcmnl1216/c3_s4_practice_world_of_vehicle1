@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ad1308-f7e3-4ab0-9f2d-8362a48a5c00" name="Changes" comment="The no args constructor and Parameteriazed constructors are created">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Engine.java" afterDir="false" />
-    </list>
+    <list default="true" id="63ad1308-f7e3-4ab0-9f2d-8362a48a5c00" name="Changes" comment="created the to string method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,13 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Philip Meshach/IdeaProjects/mc-1-s-1-wat-a-pizza&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "C:/Users/Philip Meshach/IdeaProjects/mc-1-s-1-wat-a-pizza"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Java Scratch.Scratch">
     <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
@@ -117,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661757362952</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created the getter and setter methods">
+      <created>1665471272333</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665471272333</updated>
+    </task>
+    <task id="LOCAL-00006" summary="created the to string method">
+      <created>1665471309391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665471309391</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,7 +148,9 @@
     <MESSAGE value="Maven Source compailer changed from 18 to 11" />
     <MESSAGE value="the engine class is created" />
     <MESSAGE value="The no args constructor and Parameteriazed constructors are created" />
-    <option name="LAST_COMMIT_MESSAGE" value="The no args constructor and Parameteriazed constructors are created" />
+    <MESSAGE value="created the getter and setter methods" />
+    <MESSAGE value="created the to string method" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the to string method" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

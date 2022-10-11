@@ -5,11 +5,11 @@
  */
 
 public class Engine {
-    int modelNumber;
-    String displacement;
-    String maxPower;
-    int maxRpm;
-    String noOfCylinders;
+    private int modelNumber;
+    private String displacement;
+    private String maxPower;
+    private int maxRpm;
+    private String noOfCylinders;
 
     public Engine() {
     }
