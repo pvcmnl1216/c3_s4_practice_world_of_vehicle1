@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ad1308-f7e3-4ab0-9f2d-8362a48a5c00" name="Changes" comment="created the to string method" />
+    <list default="true" id="63ad1308-f7e3-4ab0-9f2d-8362a48a5c00" name="Changes" comment="created the constructors and getter setter to string methods">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PetrolEngine.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665471309391</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="created the cng engine class">
+      <created>1665471577236</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665471577236</updated>
+    </task>
+    <task id="LOCAL-00008" summary="created the constructors and getter setter to string methods">
+      <created>1665471658501</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665471658501</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,7 +166,9 @@
     <MESSAGE value="The no args constructor and Parameteriazed constructors are created" />
     <MESSAGE value="created the getter and setter methods" />
     <MESSAGE value="created the to string method" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the to string method" />
+    <MESSAGE value="created the cng engine class" />
+    <MESSAGE value="created the constructors and getter setter to string methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the constructors and getter setter to string methods" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
